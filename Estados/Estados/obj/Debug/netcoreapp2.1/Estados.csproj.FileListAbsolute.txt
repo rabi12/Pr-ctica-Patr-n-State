@@ -1,0 +1,11 @@
+C:\Users\rabi.aranda\source\repos\Estados\Estados\bin\Debug\netcoreapp2.1\Estados.deps.json
+C:\Users\rabi.aranda\source\repos\Estados\Estados\bin\Debug\netcoreapp2.1\Estados.runtimeconfig.json
+C:\Users\rabi.aranda\source\repos\Estados\Estados\bin\Debug\netcoreapp2.1\Estados.runtimeconfig.dev.json
+C:\Users\rabi.aranda\source\repos\Estados\Estados\bin\Debug\netcoreapp2.1\Estados.dll
+C:\Users\rabi.aranda\source\repos\Estados\Estados\bin\Debug\netcoreapp2.1\Estados.pdb
+C:\Users\rabi.aranda\source\repos\Estados\Estados\obj\Debug\netcoreapp2.1\Estados.csprojAssemblyReference.cache
+C:\Users\rabi.aranda\source\repos\Estados\Estados\obj\Debug\netcoreapp2.1\Estados.csproj.CoreCompileInputs.cache
+C:\Users\rabi.aranda\source\repos\Estados\Estados\obj\Debug\netcoreapp2.1\Estados.AssemblyInfoInputs.cache
+C:\Users\rabi.aranda\source\repos\Estados\Estados\obj\Debug\netcoreapp2.1\Estados.AssemblyInfo.cs
+C:\Users\rabi.aranda\source\repos\Estados\Estados\obj\Debug\netcoreapp2.1\Estados.dll
+C:\Users\rabi.aranda\source\repos\Estados\Estados\obj\Debug\netcoreapp2.1\Estados.pdb
